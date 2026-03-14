@@ -49,11 +49,11 @@ src/
 ├── components/
 │   └── InputBox.jsx        # Reusable component for currency input
 │
-├── hooks/
-│   └── useCurrencyInfo.js  # Custom hook for fetching currency data
-│
 ├── constants/
-│   └── countryFlags.js     # Currency codes mapped to country flags
+│   └── countryFlag.js      # Currency codes mapped to country flags
+│
+├── hooks/
+│   └── useCurrencyInfo.js     # Custom hook for fetching currency data
 │
 ├── App.jsx                 # Main application component
 ├── main.jsx                # React entry point
