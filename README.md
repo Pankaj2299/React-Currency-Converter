@@ -51,6 +51,7 @@ src/
 │
 ├── constants/
 │   └── countryFlag.js      # Currency codes mapped to country flags
+│   └── cryptoCurrencies.js # List of crypto currencies used to filter them from dropdown
 │
 ├── hooks/
 │   └── useCurrencyInfo.js     # Custom hook for fetching currency data
